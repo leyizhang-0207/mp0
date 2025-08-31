@@ -16,7 +16,7 @@ html, body {
 
 .card {
   background: #f7d1cd;  
-  padding: 60px;
+  padding: 70px;
   border-radius: 12px;
   width: min(700px, 95%);
   text-align: center;
